@@ -1,0 +1,2 @@
+,min_deltas,interval_length,uri_Distinct,max_time_interval,max_deltas,max_length_referrer,max_entropy,time_interval,ratio_of_deltas_A,min_path_depth,max_length,ratio_of_deltas_E,max_path_depth,referrers_distinct,min_time_interval,min_length,ratio_of_deltas_B,min_entropy,ratio_of_deltas_D,ratio_of_deltas_C
+0,"[0.002169, 0.011048, 0.033954000000000005, 1.51859]",1.516421,1,1.51859,"[1.51859, 0.033954000000000005, 0.011048, 0.002169]",1,0.0,"[1.51859, 0.033954000000000005, 0.011048, 0.002169]",1.9783424260149391,1,1,0.0,1,1,0.002169,1,0.659447475338313,0.0,0.0,0.0
