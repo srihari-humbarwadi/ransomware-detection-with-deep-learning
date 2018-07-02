@@ -5,7 +5,7 @@ Based on the works of Joseph Zadeh & Rod Soto - Aktaion
 https://github.com/jzadeh/aktaion2
 
 ## Architecture and working 
-![alt text](results/report/Basic%20Sequence%20Diagram.png)
+![alt text](results/report/Sequence%20Diagram.png)
 ## 
 ![alt text](results/report/Data%20Flow.png)
 
